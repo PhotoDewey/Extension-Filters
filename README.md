@@ -58,4 +58,4 @@ Filters gives you a curated collection of colour and tone presets — from timel
 
 ## Version
 
-1.0
+1.1
