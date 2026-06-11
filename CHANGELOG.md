@@ -1,5 +1,7 @@
 # Filters - Changelog
 
+## v1.3 - 2026-06-11
+
 ## v1.1 - 2026-06-10
 - Removed the save/cancle option
 
