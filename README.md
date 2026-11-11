@@ -1,5 +1,15 @@
 # Filters
 
+> [!IMPORTANT]
+> **Filters is now built into PhotoDewey.** Starting with PhotoDewey 1.0, all 18 filters are part
+> of the app itself: you find them as the **Filters** card in the Extensions panel.
+>
+> - You no longer need to install this extension, and it is no longer offered in the
+>   in-app extension catalogue.
+> - PhotoDewey 1.0 removes an installed copy of `PhotoDewey.Filters.dll` automatically
+>   at startup. Photos you edited with the extension keep looking exactly the same.
+> - This repository is kept for its release history and is no longer updated.
+
 **14 artistic filters. Fully adjustable intensity. Non-destructive.**
 
 ---
